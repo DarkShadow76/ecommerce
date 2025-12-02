@@ -12,7 +12,6 @@ target/
 .settings
 .springBeans
 .sts4-cache
-.kiro
 
 ### IntelliJ IDEA ###
 .idea
@@ -29,6 +28,8 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
+/.kiro
 
 ### VS Code ###
 .vscode/
